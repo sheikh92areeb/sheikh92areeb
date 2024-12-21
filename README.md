@@ -62,7 +62,7 @@ Explore more of my work in the [Repositories](https://github.com/sheikh92areeb?t
 
 - **Email:** [mareebsheikh92@gmail.com](mailto:mareebsheikh92@gmail.com)  
 - **LinkedIn:** [linkedin.com/in/areebsheikh](https://www.linkedin.com/in/areeb-sheikh18/)
-- **Portfolio:**(https://areeb-sheikh.netlify.app/)
+- **Portfolio:**https://areeb-sheikh.netlify.app/
 
 ---
 
